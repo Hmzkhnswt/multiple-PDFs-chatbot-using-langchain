@@ -1,4 +1,5 @@
-# multiple-PDFs-chatbot-using-langchain
+# Talk with your PDF's 
+This project provide you an interface for interacting with it.
 
 ### The application follows these steps to provide responses to your questions:
 
